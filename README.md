@@ -1,20 +1,20 @@
-📘 Nicole Cabral – Landing Page
+Landing Page – Psicóloga Nicole Cabral
 
-Landing page moderna, elegante e altamente otimizada para a psicóloga Nicole Cabral, construída com foco em experiência do usuário, animações suaves e estética profissional.
+Uma landing page moderna, elegante e acolhedora desenvolvida para a psicóloga Nicole Cabral, com foco em design minimalista, animações suaves e experiência profissional.
 
 🎨 Design & Experiência
 
-O projeto foi desenvolvido com:
+A página foi construída com foco em:
 
-UI limpa, minimalista e acolhedora
+Interface clara, suave e profissional
 
-Transições suaves com motion design
+Animações leves e naturais
 
-Layout responsivo para todos os dispositivos
+Texto emocional e convidativo
 
-Componentização organizada e escalável
+Componentes responsivos e bem distribuídos
 
-Estética que transmite cuidado, segurança e profissionalismo
+Paleta aconchegante com tons rosados
 
 🚀 Tecnologias Utilizadas
 Frontend
@@ -33,42 +33,42 @@ Luxon
 
 Integrações
 
-Criação de evento no Google Calendar (client-side)
+Criação de evento via Google Calendar (client-side)
 
-Exportação de sessão via arquivo .ics
+Exportação de evento .ics
 
-Backend opcional para integração completa com Google Calendar API
+Backend opcional (Google Calendar OAuth2)
 
-✨ Funcionalidades Principais
+✨ Funcionalidades
 🧠 Apresentação Profissional
 
-Seção hero com destaque para a psicóloga
+Hero com headline, foto e CTA
 
-Foto, headline, CTA e elementos visuais fluidos
+Destaques da prática psicológica
 
 📘 Sobre a Psicóloga
 
-Descrição detalhada
+Bio detalhada
 
-Lista de qualificações
+Lista de especialidades
 
-Informações rápidas organizadas em cards
+Informações rápidas
 
 🩺 Atendimentos
 
-Cards de serviços
+Cards animados
 
-Animações on-scroll
+Descrição dos serviços
 
-CTA para agendamento
+Chamadas para ação
 
 💬 Depoimentos
 
-Três depoimentos reais/placeholder
+Três depoimentos
 
-Estilo suave em tons rosados
+Layout acolhedor
 
-Layout confiável e acolhedor
+Destaque emocional
 
 📞 Contato & Agendamento
 
@@ -76,9 +76,9 @@ Formulário completo
 
 Escolha de data, hora, duração e fuso horário
 
-Botão para gerar evento no Google Calendar
+Criar evento no Google Calendar
 
-Geração automática de arquivo .ics
+Gerar arquivo .ics
 
 🗂️ Estrutura do Projeto
 nicole-landing/
@@ -90,27 +90,21 @@ nicole-landing/
 │   │   ├── index.css
 │   │   └── images/
 │   ├── index.html
-│   ├── package.json
 │   └── tailwind.config.cjs
 │
 └── server/
     ├── server.js
-    ├── package.json
-    └── .env.example
+    ├── .env.example
+    └── package.json
 
-💡 Destaques do Projeto
+🌐 Destaques
 
-UX refinado com transições orgânicas
+UX premium
 
-Código limpo e fácil de manter
+Animações suaves com Framer Motion
 
-Organização modular
+Estética profissional para psicologia
 
-Visual pensado especificamente para profissionais de saúde
+Estrutura modular e escalável
 
-Perfeito para psicólogos, terapeutas e consultórios
-
-🧾 Licença
-
-Uso livre para fins pessoais ou profissionais. Créditos opcionais.
-Se usar como template público, mantenha referências ao autor original.
+Perfeito para landing pages de serviços
