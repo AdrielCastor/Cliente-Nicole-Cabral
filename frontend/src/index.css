@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --rose-600: #e11d48; --rose-50: #fff1f2; }
+
+body { @apply bg-slate-50 text-slate-800 antialiased font-sans; }
